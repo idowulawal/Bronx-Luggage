@@ -1,0 +1,510 @@
+{
+  "PRODUCTS": [
+    {
+      "id": "1",
+      "name": "Bronx Elite Carry-On",
+      "brand": "Bronx",
+      "category": "Luggage",
+      "gender": "Unisex",
+      "price": 199,
+      "size": "Cabin",
+      "color": "Midnight Black",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&q=80&w=800",
+      "rating": 4.8,
+      "specifications": [
+        "Polycarbonate shell",
+        "360-degree spinner wheels",
+        "TSA-approved lock",
+        "2.5kg weight"
+      ]
+    },
+
+    {
+      "id": "2",
+      "name": "Executive Leather Briefcase",
+      "brand": "Samsonite",
+      "category": "Bags",
+      "gender": "Men",
+      "price": 299,
+      "size": "Small",
+      "color": "Cognac Brown",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&q=80&w=800",
+      "rating": 4.9,
+      "specifications": [
+        "Full-grain leather",
+        "Padded laptop sleeve",
+        "Detachable strap",
+        "Multiple compartments"
+      ]
+    },
+
+    {
+      "id": "3",
+      "name": "Adventure Pro Backpack",
+      "brand": "North Face",
+      "category": "Backpacks",
+      "gender": "Unisex",
+      "price": 129,
+      "size": "Medium",
+      "color": "Forest Green",
+      "image": "https://images.pexels.com/photos/7010129/pexels-photo-7010129.jpeg",
+      "rating": 4.7,
+      "specifications": [
+        "Water-resistant nylon",
+        "Ergonomic straps",
+        "Hydration sleeve",
+        "30L capacity"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chic Travel Tote",
+      "brand": "Tumi",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 350,
+      "size": "Medium",
+      "color": "Rose Gold",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=800",
+      "rating": 4.6,
+      "specifications": [
+        "Ballistic nylon",
+        "Leather trim",
+        "Add-a-bag sleeve",
+        "Internal organization"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Bronx Voyager Large",
+      "brand": "Bronx",
+      "category": "Luggage",
+      "gender": "Unisex",
+      "price": 249,
+      "size": "Large",
+      "color": "Silver Metallic",
+      "image": "https://images.pexels.com/photos/22434759/pexels-photo-22434759.jpeg",
+      "rating": 4.5,
+      "specifications": [
+        "Expandable design",
+        "Hard-shell protection",
+        "Dual spinner wheels",
+        "4.2kg weight"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Urban Commuter Backpack",
+      "brand": "American Tourister",
+      "category": "Backpacks",
+      "gender": "Men",
+      "price": 79,
+      "size": "Small",
+      "color": "Navy Blue",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&q=80&w=800",
+      "rating": 4.4,
+      "specifications": [
+        "Lightweight design",
+        "USB charging port",
+        "Breathable back panel",
+        "20L capacity"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Traveler's Choice Spinner",
+      "brand": "TravelPro",
+      "category": "Luggage",
+      "gender": "Unisex",
+      "price": 179,
+      "size": "Cabin",
+      "color": "Charcoal",
+      "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+      "rating": 4.2,
+      "specifications": [
+        "Ultra-lightweight",
+        "Self-aligning ball-bearing wheels",
+        "Built-in USB port"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Compact Crossbody",
+      "brand": "Patagonia",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 89,
+      "size": "Small",
+      "color": "Red",
+      "image": "https://images.pexels.com/photos/22432989/pexels-photo-22432989.jpeg",
+      "rating": 4.3,
+      "specifications": [
+        "Recycled polyester",
+        "Adjustable strap",
+        "Multiple pockets"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Expedition Duffel",
+      "brand": "Osprey",
+      "category": "Bags",
+      "gender": "Unisex",
+      "price": 139,
+      "size": "Large",
+      "color": "Teal",
+      "image": "https://images.pexels.com/photos/9391902/pexels-photo-9391902.jpeg",
+      "rating": 4.6,
+      "specifications": [
+        "Durable fabric",
+        "Removable backpack straps",
+        "Water-resistant"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Elite Rolling Backpack",
+      "brand": "Delsey",
+      "category": "Backpacks",
+      "gender": "Men",
+      "price": 199,
+      "size": "Medium",
+      "color": "Blue",
+      "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg",
+      "rating": 4.1,
+      "specifications": [
+        "Retractable handle",
+        "Multiple compartments",
+        "Laptop sleeve"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Carry-on Classic",
+      "brand": "Rimowa",
+      "category": "Luggage",
+      "gender": "Unisex",
+      "price": 499,
+      "size": "Cabin",
+      "color": "Silver",
+      "image": "https://images.pexels.com/photos/45981/pexels-photo-45981.jpeg",
+      "rating": 4.9,
+      "specifications": [
+        "Aluminum shell",
+        "TSA-approved locks",
+        "Removable divider"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Softside Spinner",
+      "brand": "Samsonite",
+      "category": "Luggage",
+      "gender": "Women",
+      "price": 219,
+      "size": "Medium",
+      "color": "Purple",
+      "image": "https://images.pexels.com/photos/7319328/pexels-photo-7319328.jpeg",
+      "rating": 4.0,
+      "specifications": ["Expandable", "Lightweight", "Four spinner wheels"]
+    },
+    {
+      "id": "13",
+      "name": "Outdoor Hiking Pack",
+      "brand": "North Face",
+      "category": "Backpacks",
+      "gender": "Unisex",
+      "price": 159,
+      "size": "Large",
+      "color": "Green",
+      "image": "https://images.pexels.com/photos/7969093/pexels-photo-7969093.jpeg",
+      "rating": 4.5,
+      "specifications": [
+        "50L capacity",
+        "Rain cover included",
+        "Adjustable torso"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Leather Weekend Bag",
+      "brand": "Bronx",
+      "category": "Bags",
+      "gender": "Men",
+      "price": 249,
+      "size": "Medium",
+      "color": "Tan",
+      "image": "https://images.pexels.com/photos/6773814/pexels-photo-6773814.jpeg",
+      "rating": 4.7,
+      "specifications": [
+        "Genuine leather",
+        "Detachable strap",
+        "Spacious interior"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Rolling Duffel 2",
+      "brand": "American Tourister",
+      "category": "Bags",
+      "gender": "Unisex",
+      "price": 129,
+      "size": "Large",
+      "color": "Navy",
+      "image": "https://images.pexels.com/photos/27793087/pexels-photo-27793087.jpeg",
+      "rating": 4.2,
+      "specifications": [
+        "Inline skate wheels",
+        "Water-resistant fabric",
+        "Multiple handles"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "City Sling",
+      "brand": "Osprey",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 69,
+      "size": "Small",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/7159408/pexels-photo-7159408.jpeg",
+      "rating": 4.3,
+      "specifications": ["Waterproof", "Adjustable strap", "Laptop pocket"]
+    },
+    {
+      "id": "17",
+      "name": "Business Brief",
+      "brand": "Tumi",
+      "category": "Bags",
+      "gender": "Men",
+      "price": 499,
+      "size": "Small",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/4452513/pexels-photo-4452513.jpeg",
+      "rating": 4.8,
+      "specifications": [
+        "Tumi Tracer",
+        "Leather handle",
+        "Multiple compartments"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Traveler Backpack",
+      "brand": "Patagonia",
+      "category": "Backpacks",
+      "gender": "Unisex",
+      "price": 129,
+      "size": "Medium",
+      "color": "Blue",
+      "image": "https://images.pexels.com/photos/842959/pexels-photo-842959.jpeg",
+      "rating": 4.6,
+      "specifications": ["100% recycled", "Laptop sleeve", "Side pockets"]
+    },
+    {
+      "id": "19",
+      "name": "Mini Crossbody",
+      "brand": "Bronx",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 59,
+      "size": "Small",
+      "color": "Rose",
+      "image": "https://images.pexels.com/photos/9267587/pexels-photo-9267587.jpeg",
+      "rating": 4.1,
+      "specifications": [
+        "Compact design",
+        "Adjustable strap",
+        "Multiple pockets"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Family Suitcase Set",
+      "brand": "Samsonite",
+      "category": "Luggage",
+      "gender": "Unisex",
+      "price": 599,
+      "size": "Large",
+      "color": "Gray",
+      "image": "https://images.pexels.com/photos/2646521/pexels-photo-2646521.jpeg",
+      "rating": 4.4,
+      "specifications": ["3-piece set", "Scratch-resistant", "Spinner wheels"]
+    },
+    {
+      "id": "21",
+      "name": "Sport Duffel",
+      "brand": "American Tourister",
+      "category": "Bags",
+      "gender": "Men",
+      "price": 89,
+      "size": "Medium",
+      "color": "Red",
+      "image": "https://images.pexels.com/photos/28726897/pexels-photo-28726897.jpeg",
+      "rating": 4.0,
+      "specifications": [
+        "Ventilated shoe compartment",
+        "Padded strap",
+        "Water-resistant"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Pro Cycling Backpack",
+      "brand": "Osprey",
+      "category": "Backpacks",
+      "gender": "Unisex",
+      "price": 139,
+      "size": "Medium",
+      "color": "Yellow",
+      "image": "https://images.pexels.com/photos/7706556/pexels-photo-7706556.jpeg",
+      "rating": 4.5,
+      "specifications": [
+        "Hydration bladder compatibility",
+        "Reflective accents",
+        "Helmet carry"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Vintage Leather Bag",
+      "brand": "Bronx",
+      "category": "Bags",
+      "gender": "Unisex",
+      "price": 219,
+      "size": "Large",
+      "color": "Brown",
+      "image": "https://images.pexels.com/photos/2977304/pexels-photo-2977304.jpeg",
+      "rating": 4.3,
+      "specifications": ["Antique finish", "Adjustable strap", "Laptop sleeve"]
+    },
+    {
+      "id": "24",
+      "name": "Eco Tote",
+      "brand": "Patagonia",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 49,
+      "size": "Small",
+      "color": "Green",
+      "image": "https://images.pexels.com/photos/8954490/pexels-photo-8954490.jpeg",
+      "rating": 4.2,
+      "specifications": ["100% organic cotton", "Reusable", "Lightweight"]
+    },
+    {
+      "id": "25",
+      "name": "Hardcase Cabin",
+      "brand": "Delsey",
+      "category": "Luggage",
+      "gender": "Unisex",
+      "price": 229,
+      "size": "Cabin",
+      "color": "Blue",
+      "image": "https://images.pexels.com/photos/34955298/pexels-photo-34955298.jpeg",
+      "rating": 4.2,
+      "specifications": ["Hardside shell", "Gusseted expansion", "TSA lock"]
+    },
+    {
+      "id": "26",
+      "name": "Leather Shoulder Bag",
+      "brand": "Tumi",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 349,
+      "size": "Medium",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/36365228/pexels-photo-36365228.jpeg",
+      "rating": 4.7,
+      "specifications": ["Leather trim", "Zip closures", "Multiple pockets"]
+    },
+    {
+      "id": "27",
+      "name": "Compact Carry-On",
+      "brand": "TravelPro",
+      "category": "Luggage",
+      "gender": "Men",
+      "price": 189,
+      "size": "Small",
+      "color": "Gray",
+      "image": "https://images.pexels.com/photos/11545704/pexels-photo-11545704.jpeg",
+      "rating": 4.3,
+      "specifications": ["Compact design", "4 wheels", "USB port"]
+    },
+    {
+      "id": "28",
+      "name": "Sport Backpack",
+      "brand": "North Face",
+      "category": "Backpacks",
+      "gender": "Unisex",
+      "price": 119,
+      "size": "Medium",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/16359256/pexels-photo-16359256.jpeg",
+      "rating": 4.6,
+      "specifications": ["Waterproof", "Padded straps", "Side pockets"]
+    },
+    {
+      "id": "29",
+      "name": "Designer Clutch",
+      "brand": "Bronx",
+      "category": "Bags",
+      "gender": "Women",
+      "price": 129,
+      "size": "Small",
+      "color": "Gold",
+      "image": "https://images.pexels.com/photos/11681818/pexels-photo-11681818.jpeg",
+      "rating": 4.4,
+      "specifications": ["Metallic finish", "Detachable strap", "Zip closure"]
+    },
+    {
+      "id": "30",
+      "name": "Rolling Garment Bag",
+      "brand": "Samsonite",
+      "category": "Bags",
+      "gender": "Unisex",
+      "price": 259,
+      "size": "Large",
+      "color": "Blue",
+      "image": "https://images.pexels.com/photos/11463449/pexels-photo-11463449.png",
+      "rating": 4.5,
+      "specifications": [
+        "Hanger lock system",
+        "Wheels",
+        "Multiple compartments"
+      ]
+    }
+  ],
+  "BRANDS": [
+    {
+      "name": "Bronx",
+      "logo": "https://static.vecteezy.com/system/resources/previews/021/628/992/original/bronx-new-york-usa-typography-slogan-design-america-logo-with-graphic-city-lettering-for-print-and-web-vector.jpg",
+      "description": "Our signature line of high-quality, affordable luggage."
+    },
+    {
+      "name": "Samsonite",
+      "logo": "https://searchlogovector.com/wp-content/uploads/2020/01/samsonite-logo-vector.png",
+      "description": "World leader in superior travel bags and luggage."
+    },
+    {
+      "name": "Tumi",
+      "logo": "https://logodix.com/logo/339786.jpg",
+      "description": "Premium business and travel lifestyle brand."
+    },
+    {
+      "name": "North Face",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/11/The-North-Face-Logo.png",
+      "description": "Outdoor & adventure gear for every traveler."
+    },
+    {
+      "name": "American Tourister",
+      "logo": "https://freepngdesign.com/content/uploads/images/p-1193-8-american-tourister-logo-png-transparent-logo-680469193910.png",
+      "description": "Fun, colorful luggage for the everyday explorer."
+    },
+    {
+      "name": "Osprey",
+      "logo": "https://tse3.mm.bing.net/th/id/OIP.G832d1FALr4uV5q_m_sc1gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "Innovative backpacks built for comfort and durability."
+    }
+  ]
+}

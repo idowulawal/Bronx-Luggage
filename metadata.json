@@ -1,0 +1,5 @@
+{
+  "name": "Bronx Luggage",
+  "description": "Premium luggage and travel accessories store featuring high-quality brands, backpacks, and professional travel gear.",
+  "requestFramePermissions": ["geolocation"]
+}
