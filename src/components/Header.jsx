@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "motion/react";
-import { ShoppingBag, Menu, X, User } from "lucide-react";
+import { ShoppingBag, Menu, X, User, ShoppingCart } from "lucide-react";
 
-export default function Header({ visitorCount }) {
+export default function Header({ visitorCount, cartCount, cart, onCartClick, onUpdateQuantity, onRemoveItem }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const location = useLocation();
 
@@ -60,6 +60,18 @@ export default function Header({ visitorCount }) {
               </p>
             </div>
           </div>
+
+          <button
+            onClick={onCartClick}
+            className="p-2 text-zinc-600 hover:text-indigo-600 transition-colors relative"
+          >
+            <ShoppingCart className="w-6 h-6" />
+            {cartCount > 0 && (
+              <span className="absolute top-1 right-1 w-5 h-5 bg-indigo-600 rounded-full text-white text-[10px] font-bold flex items-center justify-center">
+                {cartCount}
+              </span>
+            )}
+          </button>
 
           <button
             className="lg:hidden p-2 text-zinc-500"

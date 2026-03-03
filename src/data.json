@@ -11,6 +11,7 @@
       "color": "Midnight Black",
       "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&q=80&w=800",
       "rating": 4.8,
+      "description": "The Bronx Elite Carry-On is the perfect companion for frequent travelers. Its sleek Midnight Black design combined with durable polycarbonate construction makes it both stylish and practical. Featuring 360-degree spinner wheels and a TSA-approved lock, this lightweight cabin-sized luggage ensures smooth navigation through busy airports while keeping your belongings secure.",
       "specifications": [
         "Polycarbonate shell",
         "360-degree spinner wheels",
@@ -30,6 +31,7 @@
       "color": "Cognac Brown",
       "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&q=80&w=800",
       "rating": 4.9,
+      "description": "Elevate your professional style with the Executive Leather Briefcase from Samsonite. Crafted from premium full-grain leather, this briefcase combines sophistication with functionality. The padded laptop sleeve keeps your device secure, while multiple compartments and a detachable strap offer versatile carrying options for the modern professional.",
       "specifications": [
         "Full-grain leather",
         "Padded laptop sleeve",
@@ -48,6 +50,7 @@
       "size": "Medium",
       "color": "Forest Green",
       "image": "https://images.pexels.com/photos/7010129/pexels-photo-7010129.jpeg",
+      "description": "Adventure awaits with the Adventure Pro Backpack from North Face. Built with water-resistant nylon and 30L capacity, this versatile pack is designed for hikers, commuters, and travelers alike. The ergonomic straps and hydration sleeve make it your perfect companion for outdoor explorations and daily adventures.",
       "rating": 4.7,
       "specifications": [
         "Water-resistant nylon",
@@ -67,6 +70,7 @@
       "color": "Rose Gold",
       "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=800",
       "rating": 4.6,
+      "description": "Travel in style with the Chic Travel Tote from Tumi. This elegant Rose Gold tote combines ballistic nylon with premium leather trim for a sophisticated look. The add-a-bag sleeve and internal organization make it ideal for weekend getaways while maintaining its fashionable appeal.",
       "specifications": [
         "Ballistic nylon",
         "Leather trim",
@@ -85,6 +89,7 @@
       "color": "Silver Metallic",
       "image": "https://images.pexels.com/photos/22434759/pexels-photo-22434759.jpeg",
       "rating": 4.5,
+      "description": "The Bronx Voyager Large suitcase is designed for extended trips and family vacations. With its expandable design and hard-shell protection in stunning Silver Metallic, it maximizes storage while protecting your belongings. Dual spinner wheels ensure effortless maneuvering through crowded terminals.",
       "specifications": [
         "Expandable design",
         "Hard-shell protection",
@@ -102,6 +107,7 @@
       "size": "Small",
       "color": "Navy Blue",
       "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&q=80&w=800",
+      "description": "The Urban Commuter Backpack is perfect for daily commutes and day trips. Featuring a built-in USB charging port and breathable back panel, this lightweight Navy Blue pack keeps you connected while maintaining comfort throughout the day. With 20L capacity, it carries all your essentials without the bulk.",
       "rating": 4.4,
       "specifications": [
         "Lightweight design",
@@ -121,6 +127,7 @@
       "color": "Charcoal",
       "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
       "rating": 4.2,
+      "description": "Experience effortless travel with the Traveler's Choice Spinner from TravelPro. This ultra-lightweight cabin luggage features innovative self-aligning ball-bearing wheels for smooth navigation. The built-in USB port keeps your devices charged while the Charcoal color hides wear and tear perfectly.",
       "specifications": [
         "Ultra-lightweight",
         "Self-aligning ball-bearing wheels",
@@ -138,6 +145,7 @@
       "color": "Red",
       "image": "https://images.pexels.com/photos/22432989/pexels-photo-22432989.jpeg",
       "rating": 4.3,
+      "description": "The Compact Crossbody from Patagonia combines eco-conscious design with everyday functionality. Made from recycled polyester, this vibrant Red bag features an adjustable strap for custom fit and multiple pockets for organization. Perfect for sustainable travelers who don't compromise on style.",
       "specifications": [
         "Recycled polyester",
         "Adjustable strap",
@@ -154,6 +162,7 @@
       "size": "Large",
       "color": "Teal",
       "image": "https://images.pexels.com/photos/9391902/pexels-photo-9391902.jpeg",
+      "description": "Take on any expedition with the Expedition Duffel from Osprey. This versatile Teal duffel is built from durable, water-resistant fabric and features removable backpack straps for flexible carrying options. Whether you're hiking, traveling, or heading to the gym, this bag adapts to your lifestyle.",
       "rating": 4.6,
       "specifications": [
         "Durable fabric",
@@ -172,6 +181,7 @@
       "color": "Blue",
       "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg",
       "rating": 4.1,
+      "description": "The Elite Rolling Backpack from Delsey revolutionizes how you travel. Combining a retractable handle with multiple compartments and a padded laptop sleeve, this Blue backpack on wheels is perfect for business travelers who want both mobility and organization.",
       "specifications": [
         "Retractable handle",
         "Multiple compartments",
@@ -189,6 +199,7 @@
       "color": "Silver",
       "image": "https://images.pexels.com/photos/45981/pexels-photo-45981.jpeg",
       "rating": 4.9,
+      "description": "The iconic Carry-on Classic from Rimowa represents the pinnacle of luggage engineering. Its aircraft-grade aluminum shell in elegant Silver provides unmatched durability and protection. With TSA-approved locks and a removable divider, this premium piece is an investment in travel excellence.",
       "specifications": [
         "Aluminum shell",
         "TSA-approved locks",
@@ -205,6 +216,7 @@
       "size": "Medium",
       "color": "Purple",
       "image": "https://images.pexels.com/photos/7319328/pexels-photo-7319328.jpeg",
+      "description": "Travel in vibrant style with the Softside Spinner from Samsonite. This eye-catching Purple luggage features an expandable design to maximize storage and lightweight construction for easy handling. The four spinner wheels provide 360-degree maneuverability through any airport.",
       "rating": 4.0,
       "specifications": ["Expandable", "Lightweight", "Four spinner wheels"]
     },
@@ -218,6 +230,7 @@
       "size": "Large",
       "color": "Green",
       "image": "https://images.pexels.com/photos/7969093/pexels-photo-7969093.jpeg",
+      "description": "Conquer any trail with the Outdoor Hiking Pack from North Face. With a generous 50L capacity and included rain cover, this Green pack is engineered for serious hikers. The adjustable torso and ergonomic design distribute weight comfortably even on long expeditions.",
       "rating": 4.5,
       "specifications": [
         "50L capacity",
@@ -234,6 +247,7 @@
       "price": 249,
       "size": "Medium",
       "color": "Tan",
+      "description": "Embrace timeless elegance with the Leather Weekend Bag from Bronx. Crafted from genuine leather in warm Tan, this versatile bag features a detachable strap for flexible carrying and a spacious interior perfect for weekend getaways or romantic escapes.",
       "image": "https://images.pexels.com/photos/6773814/pexels-photo-6773814.jpeg",
       "rating": 4.7,
       "specifications": [
@@ -250,6 +264,7 @@
       "gender": "Unisex",
       "price": 129,
       "size": "Large",
+      "description": "The Rolling Duffel 2 from American Tourister combines functionality with fun. Featuring inline skate wheels for smooth rolling and water-resistant fabric, this Navy duffel is perfect for gym trips, weekend travels, or any adventure where durability and portability matter.",
       "color": "Navy",
       "image": "https://images.pexels.com/photos/27793087/pexels-photo-27793087.jpeg",
       "rating": 4.2,
@@ -270,6 +285,7 @@
       "color": "Black",
       "image": "https://images.pexels.com/photos/7159408/pexels-photo-7159408.jpeg",
       "rating": 4.3,
+      "description": "Navigate the city with confidence using the City Sling from Osprey. This compact Black sling bag is fully waterproof, making it ideal for urban commuting and day trips. The adjustable strap ensures comfort, while the dedicated laptop pocket keeps your tech safe.",
       "specifications": ["Waterproof", "Adjustable strap", "Laptop pocket"]
     },
     {
@@ -283,6 +299,7 @@
       "color": "Black",
       "image": "https://images.pexels.com/photos/4452513/pexels-photo-4452513.jpeg",
       "rating": 4.8,
+      "description": "Make a statement in the boardroom with the Business Brief from Tumi. This sophisticated Black briefcase features Tumi Tracer technology for recovery if lost, premium leather handles, and multiple compartments for organizing important documents and equipment. Security and style in one package.",
       "specifications": [
         "Tumi Tracer",
         "Leather handle",
@@ -299,6 +316,7 @@
       "size": "Medium",
       "color": "Blue",
       "image": "https://images.pexels.com/photos/842959/pexels-photo-842959.jpeg",
+      "description": "Travel responsibly with the Traveler Backpack from Patagonia. Built entirely from 100% recycled materials, this Blue backpack proves eco-consciousness and performance aren't mutually exclusive. The laptop sleeve and side pockets provide excellent organization for your journeys.",
       "rating": 4.6,
       "specifications": ["100% recycled", "Laptop sleeve", "Side pockets"]
     },
@@ -312,6 +330,7 @@
       "size": "Small",
       "color": "Rose",
       "image": "https://images.pexels.com/photos/9267587/pexels-photo-9267587.jpeg",
+      "description": "Less is more with the Mini Crossbody from Bronx. This charming Rose bag is perfectly sized for essentials yet features multiple pockets for smart organization. The adjustable strap allows you to wear it crossbody or on your shoulder for versatile styling.",
       "rating": 4.1,
       "specifications": [
         "Compact design",
@@ -329,6 +348,7 @@
       "size": "Large",
       "color": "Gray",
       "image": "https://images.pexels.com/photos/2646521/pexels-photo-2646521.jpeg",
+      "description": "Plan the perfect family vacation with the Family Suitcase Set from Samsonite. This 3-piece Gray set offers varying sizes for every family member's needs. The scratch-resistant exterior and spinner wheels ensure durability and easy maneuvering through airports for the whole gang.",
       "rating": 4.4,
       "specifications": ["3-piece set", "Scratch-resistant", "Spinner wheels"]
     },
@@ -343,6 +363,7 @@
       "color": "Red",
       "image": "https://images.pexels.com/photos/28726897/pexels-photo-28726897.jpeg",
       "rating": 4.0,
+      "description": "Gear up for game day with the Sport Duffel from American Tourister. This vibrant Red duffel features a dedicated ventilated shoe compartment to keep gear fresh, padded strap for comfort, and water-resistant fabric to protect your equipment from the elements.",
       "specifications": [
         "Ventilated shoe compartment",
         "Padded strap",
@@ -360,6 +381,7 @@
       "color": "Yellow",
       "image": "https://images.pexels.com/photos/7706556/pexels-photo-7706556.jpeg",
       "rating": 4.5,
+      "description": "Peak performance on two wheels with the Pro Cycling Backpack from Osprey. The vibrant Yellow design includes reflective accents for visibility, helmet carry capability, and hydration bladder compatibility. Keep yourself hydrated and visible on every ride.",
       "specifications": [
         "Hydration bladder compatibility",
         "Reflective accents",
@@ -376,6 +398,7 @@
       "size": "Large",
       "color": "Brown",
       "image": "https://images.pexels.com/photos/2977304/pexels-photo-2977304.jpeg",
+      "description": "Channel timeless Italian style with the Vintage Leather Bag from Bronx. This richly-toned Brown leather bag features an antique finish that improves with age. The adjustable strap and laptop sleeve make it both fashionable and functional for contemporary professionals.",
       "rating": 4.3,
       "specifications": ["Antique finish", "Adjustable strap", "Laptop sleeve"]
     },
@@ -389,6 +412,7 @@
       "size": "Small",
       "color": "Green",
       "image": "https://images.pexels.com/photos/8954490/pexels-photo-8954490.jpeg",
+      "description": "Make a difference with the Eco Tote from Patagonia. Crafted from 100% organic cotton, this lightweight Green tote is perfect for shopping, beach trips, or market visits. Reusable, revivable, and ready to reduce your environmental impact with every use.",
       "rating": 4.2,
       "specifications": ["100% organic cotton", "Reusable", "Lightweight"]
     },
@@ -402,6 +426,7 @@
       "size": "Cabin",
       "color": "Blue",
       "image": "https://images.pexels.com/photos/34955298/pexels-photo-34955298.jpeg",
+      "description": "Protection meets practicality with the Hardcase Cabin from Delsey. The rigid hardside shell in elegant Blue guards against impacts, while the gusseted expansion allows you to pack more without exceeding limits. TSA lock keeps your valuables secure throughout your journey.",
       "rating": 4.2,
       "specifications": ["Hardside shell", "Gusseted expansion", "TSA lock"]
     },
@@ -416,6 +441,7 @@
       "color": "Black",
       "image": "https://images.pexels.com/photos/36365228/pexels-photo-36365228.jpeg",
       "rating": 4.7,
+      "description": "Sophistication in black leather with the Leather Shoulder Bag from Tumi. Premium leather trim, secure zip closures, and multiple pockets keep your essentials organized while turning heads. Perfect for the woman who refuses to compromise on style or functionality.",
       "specifications": ["Leather trim", "Zip closures", "Multiple pockets"]
     },
     {
@@ -429,6 +455,7 @@
       "color": "Gray",
       "image": "https://images.pexels.com/photos/11545704/pexels-photo-11545704.jpeg",
       "rating": 4.3,
+      "description": "Go minimalist with the Compact Carry-On from TravelPro. Engineered for business travelers, this Gray suitcase fits perfectly in major airline cabin requirements. Four smooth wheels and a built-in USB port keep you mobile and connected on every trip.",
       "specifications": ["Compact design", "4 wheels", "USB port"]
     },
     {
@@ -441,6 +468,7 @@
       "size": "Medium",
       "color": "Black",
       "image": "https://images.pexels.com/photos/16359256/pexels-photo-16359256.jpeg",
+      "description": "Conquer any sport with the Sport Backpack from North Face. This Black pack features waterproof construction to shield your gear from weather, padded straps for comfort during intense activities, and side pockets for easy access to essentials during your workouts.",
       "rating": 4.6,
       "specifications": ["Waterproof", "Padded straps", "Side pockets"]
     },
@@ -455,6 +483,7 @@
       "color": "Gold",
       "image": "https://images.pexels.com/photos/11681818/pexels-photo-11681818.jpeg",
       "rating": 4.4,
+      "description": "Shine bright with the Designer Clutch from Bronx. This eye-catching Gold clutch with metallic finish is perfect for evening events and special occasions. The detachable strap lets you wear it as a clutch or crossbody, while the secure zip closure keeps your valuables safe.",
       "specifications": ["Metallic finish", "Detachable strap", "Zip closure"]
     },
     {
@@ -468,6 +497,7 @@
       "color": "Blue",
       "image": "https://images.pexels.com/photos/11463449/pexels-photo-11463449.png",
       "rating": 4.5,
+      "description": "Travel wrinkle-free with the Rolling Garment Bag from Samsonite. This Blue bag features an innovative hanger lock system to keep your clothes perfectly pressed, wheels for effortless transport, and multiple compartments for accessories and shoes. Arrives looking fresh, every time.",
       "specifications": [
         "Hanger lock system",
         "Wheels",

@@ -19,6 +19,7 @@ export default function Shop({
   onSizeChange,
   onBrandChange,
   onPriceChange,
+  onAddToCart,
 }) {
   const [searchTerm, setSearchTerm] = React.useState("");
   const filteredProducts = useMemo(() => {
@@ -97,7 +98,7 @@ export default function Shop({
             <AnimatePresence mode="popLayout">
               {filteredProducts.map((product) => (
                 <div key={product.id}>
-                  <ProductCard product={product} />
+                  <ProductCard product={product} onAddToCart={onAddToCart} />
                 </div>
               ))}
             </AnimatePresence>

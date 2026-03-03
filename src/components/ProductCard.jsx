@@ -1,8 +1,9 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import { motion } from "motion/react";
 import { Star, Heart } from "lucide-react";
 
-export default function ProductCard({ product }) {
+export default function ProductCard({ product, onAddToCart }) {
   const [rating, setRating] = useState(product.rating);
   const [favorited, setFavorited] = useState(false);
 
@@ -34,9 +35,12 @@ export default function ProductCard({ product }) {
           </button>
         </div>
         <div className="absolute bottom-0 left-0 w-full p-4 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-          <button className="w-full py-2 bg-white text-zinc-900 rounded-lg font-medium text-sm hover:bg-zinc-100 transition-colors">
+          <Link
+            to={`/product/${product.id}`}
+            className="w-full py-2 block bg-white text-zinc-900 rounded-lg font-medium text-sm hover:bg-zinc-100 transition-colors text-center"
+          >
             View Specifications
-          </button>
+          </Link>
         </div>
       </div>
       <div className="p-5">
@@ -67,7 +71,7 @@ export default function ProductCard({ product }) {
             ({rating.toFixed(1)})
           </span>
         </div>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-2 mb-4">
           <span className="px-2 py-1 bg-zinc-100 text-zinc-600 text-[10px] font-bold uppercase rounded">
             {product.size}
           </span>
@@ -75,6 +79,12 @@ export default function ProductCard({ product }) {
             {product.category}
           </span>
         </div>
+        <button
+          onClick={() => onAddToCart(product)}
+          className="w-full py-2 px-4 bg-indigo-600 text-white rounded-lg font-semibold text-sm hover:bg-indigo-700 transition-colors"
+        >
+          Add to Cart
+        </button>
       </div>
     </motion.div>
   );
