@@ -39,7 +39,7 @@ export default function FilterSidebar({
         )}
       </button>
 
-      {/* wrapper for all controls, shown based on open state on mobile */}
+      
       <div className={isOpen ? "block md:block" : "hidden md:block"}>      
         {/* search input */}
         <div>
